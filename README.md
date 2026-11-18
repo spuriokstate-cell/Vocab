@@ -33,11 +33,7 @@ Ready-to-install files are on the **[Releases page](https://github.com/spuriokst
 | Mac | `VocabIshtika-macOS.zip` | Unzip, then **right-click → Open** the first time. |
 | iPhone/iPad | see below | Apple requires apps to be signed, so install from a Mac with Xcode. |
 
-The files are built automatically by GitHub (`.github/workflows/build.yml`) whenever a version tag is pushed:
-```bash
-git tag v1.0.1 && git push origin v1.0.1
-```
-You can also start a build from the repository's **Actions** tab → **Build apps** → **Run workflow**.
+GitHub builds these files automatically (`.github/workflows/build.yml`) whenever the app code or vocabulary changes, which takes about 15–25 minutes. You can also start a build yourself: repository **Actions** tab → **Build apps** → **Run workflow**.
 
 ### Install on an iPhone or iPad
 
