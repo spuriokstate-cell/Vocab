@@ -5,7 +5,7 @@
 | Command | Result |
 |---|---|
 | `flutter analyze` | ✅ No errors or warnings. 26 "info" notes: 25 say Flutter 3.47+ prefers `package:material_ui` over `package:flutter/material.dart` (harmless, left as is), and 1 style tip (fixed). |
-| `flutter test` | 77 passed, 1 failed. The failing test's threshold was set too high (it expected tricky words in 40% of sessions; the real, correct rate is about 30%, against 12.5% without weighting). The threshold is fixed. **Re-run to confirm.** |
+| `flutter test` | ✅ **All 78 tests passed** (after fixing one test whose threshold was set too high: it expected tricky words in 40% of sessions, but the correct rate is about 30%, against 12.5% without weighting). |
 | `flutter run` (Android emulator, API 37) | ✅ Built, installed and started; the text-to-speech engine connected. |
 | `flutter test integration_test` | Not run yet. |
 | iPhone/iPad, Windows | Not run yet. |
