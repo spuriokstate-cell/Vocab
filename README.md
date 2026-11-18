@@ -22,6 +22,33 @@ It includes all **1,165 words** from *My Word Book* (339 Grade 1 + 826 Grade 2),
 - **Everything works offline.** Words, progress, audio (the device's own voice) and rewards all work without internet, and there's no account or sign-up.
 - **Mascot:** Ishi the owl, an original character drawn in code.
 
+## Download the app
+
+Ready-to-install files are on the **[Releases page](https://github.com/spuriokstate-cell/Vocab/releases/latest)**:
+
+| Device | File | How to install |
+|---|---|---|
+| Android | `VocabIshtika-Android.apk` | Open it on the phone or tablet and allow "Install unknown apps". |
+| Windows | `VocabIshtika-Windows.zip` | Unzip, then run `vocab_ishtika.exe` (SmartScreen: **More info → Run anyway**). |
+| Mac | `VocabIshtika-macOS.zip` | Unzip, then **right-click → Open** the first time. |
+| iPhone/iPad | see below | Apple requires apps to be signed, so install from a Mac with Xcode. |
+
+The files are built automatically by GitHub (`.github/workflows/build.yml`) whenever a version tag is pushed:
+```bash
+git tag v1.0.1 && git push origin v1.0.1
+```
+You can also start a build from the repository's **Actions** tab → **Build apps** → **Run workflow**.
+
+### Install on an iPhone or iPad
+
+1. Connect the iPhone or iPad to your Mac with a cable and tap **Trust** on the device.
+2. On the device, turn on **Settings → Privacy & Security → Developer Mode** (it restarts).
+3. On the Mac, in the project folder, run `open ios/Runner.xcworkspace`. In Xcode, click **Runner** → **Signing & Capabilities** → **Team**, and choose your Apple ID (add it under **Xcode → Settings → Accounts**).
+4. Back in the Terminal, run `flutter run --release` and pick the iPhone or iPad.
+5. The first time, on the device go to **Settings → General → VPN & Device Management** and **trust** your Apple ID.
+
+With a free Apple ID the app works for 7 days, after which you run step 4 again. A paid Apple Developer account ($99/year) removes that limit and lets you use TestFlight or the App Store.
+
 ## Install Flutter (one time)
 
 **Mac** (for Android, iPhone and iPad):
