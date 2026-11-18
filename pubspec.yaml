@@ -1,0 +1,26 @@
+name: vocab_ishtika
+description: "Vocab Ishtika - an offline vocabulary learning app for Grade 1 and Grade 2."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.2.5          # offline, platform-native text-to-speech (Android, iOS, Windows)
+  shared_preferences: ^2.5.6   # local progress storage on every platform
+  path_provider: ^2.1.5        # folder for CSV progress exports
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/vocabulary/

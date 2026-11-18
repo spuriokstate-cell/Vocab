@@ -1,0 +1,2714 @@
+[
+  {
+    "id": "g1_0001",
+    "grade": 1,
+    "order": 1,
+    "word": "am",
+    "meaning": "A word you use with \"I\" to tell about yourself.",
+    "example": "I am happy today."
+  },
+  {
+    "id": "g1_0002",
+    "grade": 1,
+    "order": 2,
+    "word": "an",
+    "meaning": "Means \"one.\" We use it before words that start with a, e, i, o, u sounds.",
+    "example": "I ate an apple."
+  },
+  {
+    "id": "g1_0003",
+    "grade": 1,
+    "order": 3,
+    "word": "at",
+    "meaning": "Tells where or when something is.",
+    "example": "We are at the park."
+  },
+  {
+    "id": "g1_0004",
+    "grade": 1,
+    "order": 4,
+    "word": "as",
+    "meaning": "Means \"the same way\" or \"like.\"",
+    "example": "She is as tall as her brother."
+  },
+  {
+    "id": "g1_0005",
+    "grade": 1,
+    "order": 5,
+    "word": "the",
+    "meaning": "A word we put before a thing we are talking about.",
+    "example": "The dog is sleeping."
+  },
+  {
+    "id": "g1_0006",
+    "grade": 1,
+    "order": 6,
+    "word": "and",
+    "meaning": "Joins two things together.",
+    "example": "I like cats and dogs."
+  },
+  {
+    "id": "g1_0007",
+    "grade": 1,
+    "order": 7,
+    "word": "can",
+    "meaning": "Means you are able to do something.",
+    "example": "I can jump high."
+  },
+  {
+    "id": "g1_0008",
+    "grade": 1,
+    "order": 8,
+    "word": "cat",
+    "meaning": "A small furry pet that says \"meow.\"",
+    "example": "The cat drinks milk."
+  },
+  {
+    "id": "g1_0009",
+    "grade": 1,
+    "order": 9,
+    "word": "had",
+    "meaning": "Means you owned or held something before.",
+    "example": "I had a red ball."
+  },
+  {
+    "id": "g1_0010",
+    "grade": 1,
+    "order": 10,
+    "word": "said",
+    "meaning": "Told something using words.",
+    "example": "Mom said it is bedtime."
+  },
+  {
+    "id": "g1_0011",
+    "grade": 1,
+    "order": 11,
+    "word": "red",
+    "meaning": "The color of a strawberry or a fire truck.",
+    "example": "My shoes are red."
+  },
+  {
+    "id": "g1_0012",
+    "grade": 1,
+    "order": 12,
+    "word": "ten",
+    "meaning": "The number 10.",
+    "example": "I have ten fingers."
+  },
+  {
+    "id": "g1_0013",
+    "grade": 1,
+    "order": 13,
+    "word": "if",
+    "meaning": "Used when something might happen.",
+    "example": "If it rains, we will stay inside."
+  },
+  {
+    "id": "g1_0014",
+    "grade": 1,
+    "order": 14,
+    "word": "is",
+    "meaning": "Tells about one person or thing right now.",
+    "example": "The sky is blue."
+  },
+  {
+    "id": "g1_0015",
+    "grade": 1,
+    "order": 15,
+    "word": "got",
+    "meaning": "Received or picked up something.",
+    "example": "I got a gift for my birthday."
+  },
+  {
+    "id": "g1_0016",
+    "grade": 1,
+    "order": 16,
+    "word": "off",
+    "meaning": "Not on; away from.",
+    "example": "Turn off the light."
+  },
+  {
+    "id": "g1_0017",
+    "grade": 1,
+    "order": 17,
+    "word": "let",
+    "meaning": "To allow someone to do something.",
+    "example": "Mom let me stay up late."
+  },
+  {
+    "id": "g1_0018",
+    "grade": 1,
+    "order": 18,
+    "word": "tell",
+    "meaning": "To say something to someone.",
+    "example": "Tell me a story, please."
+  },
+  {
+    "id": "g1_0019",
+    "grade": 1,
+    "order": 19,
+    "word": "in",
+    "meaning": "Inside something.",
+    "example": "The fish is in the bowl."
+  },
+  {
+    "id": "g1_0020",
+    "grade": 1,
+    "order": 20,
+    "word": "did",
+    "meaning": "Means you made something happen before.",
+    "example": "I did my homework."
+  },
+  {
+    "id": "g1_0021",
+    "grade": 1,
+    "order": 21,
+    "word": "fox",
+    "meaning": "A wild animal like a dog with a bushy orange tail.",
+    "example": "The fox ran into the woods."
+  },
+  {
+    "id": "g1_0022",
+    "grade": 1,
+    "order": 22,
+    "word": "top",
+    "meaning": "The highest part of something.",
+    "example": "The bird sat on top of the tree."
+  },
+  {
+    "id": "g1_0023",
+    "grade": 1,
+    "order": 23,
+    "word": "hen",
+    "meaning": "A mother chicken.",
+    "example": "The hen laid an egg."
+  },
+  {
+    "id": "g1_0024",
+    "grade": 1,
+    "order": 24,
+    "word": "wet",
+    "meaning": "Covered with water; not dry.",
+    "example": "My socks got wet in the rain."
+  },
+  {
+    "id": "g1_0025",
+    "grade": 1,
+    "order": 25,
+    "word": "it",
+    "meaning": "A word for a thing.",
+    "example": "I found a ball and kicked it."
+  },
+  {
+    "id": "g1_0026",
+    "grade": 1,
+    "order": 26,
+    "word": "him",
+    "meaning": "A word for a boy or man.",
+    "example": "I gave him a hug."
+  },
+  {
+    "id": "g1_0027",
+    "grade": 1,
+    "order": 27,
+    "word": "dog",
+    "meaning": "A furry pet that barks and wags its tail.",
+    "example": "My dog loves to play fetch."
+  },
+  {
+    "id": "g1_0028",
+    "grade": 1,
+    "order": 28,
+    "word": "stop",
+    "meaning": "To not move or keep going.",
+    "example": "Stop at the red light."
+  },
+  {
+    "id": "g1_0029",
+    "grade": 1,
+    "order": 29,
+    "word": "get",
+    "meaning": "To receive or go and bring something.",
+    "example": "Please get your coat."
+  },
+  {
+    "id": "g1_0030",
+    "grade": 1,
+    "order": 30,
+    "word": "yes",
+    "meaning": "A word that means \"okay\" or \"I agree.\"",
+    "example": "Yes, I want ice cream!"
+  },
+  {
+    "id": "g1_0031",
+    "grade": 1,
+    "order": 31,
+    "word": "its",
+    "meaning": "Belonging to it.",
+    "example": "The dog wagged its tail."
+  },
+  {
+    "id": "g1_0032",
+    "grade": 1,
+    "order": 32,
+    "word": "his",
+    "meaning": "Belonging to a boy or man.",
+    "example": "That is his bike."
+  },
+  {
+    "id": "g1_0033",
+    "grade": 1,
+    "order": 33,
+    "word": "not",
+    "meaning": "Means \"no\" for something.",
+    "example": "I am not tired."
+  },
+  {
+    "id": "g1_0034",
+    "grade": 1,
+    "order": 34,
+    "word": "long",
+    "meaning": "Very far from one end to the other.",
+    "example": "The snake is very long."
+  },
+  {
+    "id": "g1_0035",
+    "grade": 1,
+    "order": 35,
+    "word": "was",
+    "meaning": "Tells about one thing in the past.",
+    "example": "It was sunny yesterday."
+  },
+  {
+    "id": "g1_0036",
+    "grade": 1,
+    "order": 36,
+    "word": "from",
+    "meaning": "Tells where something started.",
+    "example": "This letter is from Grandma."
+  },
+  {
+    "id": "g1_0037",
+    "grade": 1,
+    "order": 37,
+    "word": "have",
+    "meaning": "To own or hold something.",
+    "example": "I have a blue backpack."
+  },
+  {
+    "id": "g1_0038",
+    "grade": 1,
+    "order": 38,
+    "word": "give",
+    "meaning": "To hand something to someone.",
+    "example": "Please give me the crayon."
+  },
+  {
+    "id": "g1_0039",
+    "grade": 1,
+    "order": 39,
+    "word": "saw",
+    "meaning": "Looked at something before. Also a tool that cuts wood.",
+    "example": "I saw a rainbow!"
+  },
+  {
+    "id": "g1_0040",
+    "grade": 1,
+    "order": 40,
+    "word": "there",
+    "meaning": "In that place.",
+    "example": "Put your shoes over there."
+  },
+  {
+    "id": "g1_0041",
+    "grade": 1,
+    "order": 41,
+    "word": "up",
+    "meaning": "Going higher toward the sky.",
+    "example": "The balloon went up."
+  },
+  {
+    "id": "g1_0042",
+    "grade": 1,
+    "order": 42,
+    "word": "bus",
+    "meaning": "A big vehicle that carries lots of people.",
+    "example": "I ride the bus to school."
+  },
+  {
+    "id": "g1_0043",
+    "grade": 1,
+    "order": 43,
+    "word": "a",
+    "meaning": "Means \"one.\" We use it before a thing.",
+    "example": "I see a bird."
+  },
+  {
+    "id": "g1_0044",
+    "grade": 1,
+    "order": 44,
+    "word": "go",
+    "meaning": "To move from one place to another.",
+    "example": "Let's go to the park."
+  },
+  {
+    "id": "g1_0045",
+    "grade": 1,
+    "order": 45,
+    "word": "I",
+    "meaning": "A word you use for yourself.",
+    "example": "I like to read."
+  },
+  {
+    "id": "g1_0046",
+    "grade": 1,
+    "order": 46,
+    "word": "oh",
+    "meaning": "A word we say when we are surprised.",
+    "example": "Oh, look at that!"
+  },
+  {
+    "id": "g1_0047",
+    "grade": 1,
+    "order": 47,
+    "word": "us",
+    "meaning": "A word for me and other people.",
+    "example": "Come play with us."
+  },
+  {
+    "id": "g1_0048",
+    "grade": 1,
+    "order": 48,
+    "word": "sun",
+    "meaning": "The big bright star in the sky that gives us light.",
+    "example": "The sun is hot today."
+  },
+  {
+    "id": "g1_0049",
+    "grade": 1,
+    "order": 49,
+    "word": "so",
+    "meaning": "Means \"very\" or \"that is why.\"",
+    "example": "I am so happy!"
+  },
+  {
+    "id": "g1_0050",
+    "grade": 1,
+    "order": 50,
+    "word": "no",
+    "meaning": "The opposite of yes.",
+    "example": "No, thank you."
+  },
+  {
+    "id": "g1_0051",
+    "grade": 1,
+    "order": 51,
+    "word": "of",
+    "meaning": "Shows a part or belonging.",
+    "example": "I ate a slice of pizza."
+  },
+  {
+    "id": "g1_0052",
+    "grade": 1,
+    "order": 52,
+    "word": "on",
+    "meaning": "Touching the top of something.",
+    "example": "The cup is on the table."
+  },
+  {
+    "id": "g1_0053",
+    "grade": 1,
+    "order": 53,
+    "word": "fun",
+    "meaning": "Something that makes you happy and having a good time.",
+    "example": "The party was so much fun."
+  },
+  {
+    "id": "g1_0054",
+    "grade": 1,
+    "order": 54,
+    "word": "run",
+    "meaning": "To move your legs very fast.",
+    "example": "I can run fast."
+  },
+  {
+    "id": "g1_0055",
+    "grade": 1,
+    "order": 55,
+    "word": "he",
+    "meaning": "A word for a boy or man.",
+    "example": "He is my brother."
+  },
+  {
+    "id": "g1_0056",
+    "grade": 1,
+    "order": 56,
+    "word": "we",
+    "meaning": "A word for me and other people together.",
+    "example": "We are best friends."
+  },
+  {
+    "id": "g1_0057",
+    "grade": 1,
+    "order": 57,
+    "word": "to",
+    "meaning": "Shows where something is going.",
+    "example": "We walked to school."
+  },
+  {
+    "id": "g1_0058",
+    "grade": 1,
+    "order": 58,
+    "word": "do",
+    "meaning": "To make something happen.",
+    "example": "I do my chores every day."
+  },
+  {
+    "id": "g1_0059",
+    "grade": 1,
+    "order": 59,
+    "word": "but",
+    "meaning": "Shows something different is coming.",
+    "example": "I like apples, but not pears."
+  },
+  {
+    "id": "g1_0060",
+    "grade": 1,
+    "order": 60,
+    "word": "truck",
+    "meaning": "A big vehicle that carries heavy things.",
+    "example": "The truck carried logs."
+  },
+  {
+    "id": "g1_0061",
+    "grade": 1,
+    "order": 61,
+    "word": "be",
+    "meaning": "A word that tells what someone is or will become.",
+    "example": "I want to be a doctor."
+  },
+  {
+    "id": "g1_0062",
+    "grade": 1,
+    "order": 62,
+    "word": "me",
+    "meaning": "A word you use for yourself.",
+    "example": "Give the ball to me."
+  },
+  {
+    "id": "g1_0063",
+    "grade": 1,
+    "order": 63,
+    "word": "why",
+    "meaning": "A question word asking for a reason.",
+    "example": "Why is the sky blue?"
+  },
+  {
+    "id": "g1_0064",
+    "grade": 1,
+    "order": 64,
+    "word": "she",
+    "meaning": "A word for a girl or woman.",
+    "example": "She is my sister."
+  },
+  {
+    "id": "g1_0065",
+    "grade": 1,
+    "order": 65,
+    "word": "what",
+    "meaning": "A question word asking about a thing.",
+    "example": "What is your name?"
+  },
+  {
+    "id": "g1_0066",
+    "grade": 1,
+    "order": 66,
+    "word": "one",
+    "meaning": "The number 1.",
+    "example": "I have one nose."
+  },
+  {
+    "id": "g1_0067",
+    "grade": 1,
+    "order": 67,
+    "word": "by",
+    "meaning": "Next to or near.",
+    "example": "Sit by me."
+  },
+  {
+    "id": "g1_0068",
+    "grade": 1,
+    "order": 68,
+    "word": "my",
+    "meaning": "Belonging to me.",
+    "example": "This is my toy."
+  },
+  {
+    "id": "g1_0069",
+    "grade": 1,
+    "order": 69,
+    "word": "goes",
+    "meaning": "Moves to a place.",
+    "example": "She goes to dance class."
+  },
+  {
+    "id": "g1_0070",
+    "grade": 1,
+    "order": 70,
+    "word": "two",
+    "meaning": "The number 2.",
+    "example": "I have two eyes."
+  },
+  {
+    "id": "g1_0071",
+    "grade": 1,
+    "order": 71,
+    "word": "name",
+    "meaning": "What someone or something is called.",
+    "example": "My name is Ava."
+  },
+  {
+    "id": "g1_0072",
+    "grade": 1,
+    "order": 72,
+    "word": "five",
+    "meaning": "The number 5.",
+    "example": "I have five fingers on one hand."
+  },
+  {
+    "id": "g1_0073",
+    "grade": 1,
+    "order": 73,
+    "word": "are",
+    "meaning": "A word for more than one thing right now.",
+    "example": "We are friends."
+  },
+  {
+    "id": "g1_0074",
+    "grade": 1,
+    "order": 74,
+    "word": "or",
+    "meaning": "Shows a choice.",
+    "example": "Do you want milk or juice?"
+  },
+  {
+    "id": "g1_0075",
+    "grade": 1,
+    "order": 75,
+    "word": "day",
+    "meaning": "The time when the sun is up.",
+    "example": "It is a sunny day."
+  },
+  {
+    "id": "g1_0076",
+    "grade": 1,
+    "order": 76,
+    "word": "rain",
+    "meaning": "Water that falls from the clouds.",
+    "example": "The rain made puddles."
+  },
+  {
+    "id": "g1_0077",
+    "grade": 1,
+    "order": 77,
+    "word": "home",
+    "meaning": "The place where you live.",
+    "example": "I love my home."
+  },
+  {
+    "id": "g1_0078",
+    "grade": 1,
+    "order": 78,
+    "word": "gave",
+    "meaning": "Handed something to someone before.",
+    "example": "She gave me a cookie."
+  },
+  {
+    "id": "g1_0079",
+    "grade": 1,
+    "order": 79,
+    "word": "car",
+    "meaning": "A machine with wheels that people ride in.",
+    "example": "Dad drives a blue car."
+  },
+  {
+    "id": "g1_0080",
+    "grade": 1,
+    "order": 80,
+    "word": "for",
+    "meaning": "Meant to be given to someone.",
+    "example": "This gift is for you."
+  },
+  {
+    "id": "g1_0081",
+    "grade": 1,
+    "order": 81,
+    "word": "way",
+    "meaning": "How to do something or how to get somewhere.",
+    "example": "Which way is the park?"
+  },
+  {
+    "id": "g1_0082",
+    "grade": 1,
+    "order": 82,
+    "word": "see",
+    "meaning": "To look with your eyes.",
+    "example": "I can see the moon."
+  },
+  {
+    "id": "g1_0083",
+    "grade": 1,
+    "order": 83,
+    "word": "here",
+    "meaning": "In this place.",
+    "example": "Come here, please."
+  },
+  {
+    "id": "g1_0084",
+    "grade": 1,
+    "order": 84,
+    "word": "take",
+    "meaning": "To pick up and carry.",
+    "example": "Take an umbrella with you."
+  },
+  {
+    "id": "g1_0085",
+    "grade": 1,
+    "order": 85,
+    "word": "far",
+    "meaning": "A long way away.",
+    "example": "The moon is far away."
+  },
+  {
+    "id": "g1_0086",
+    "grade": 1,
+    "order": 86,
+    "word": "more",
+    "meaning": "A bigger amount.",
+    "example": "Can I have more grapes?"
+  },
+  {
+    "id": "g1_0087",
+    "grade": 1,
+    "order": 87,
+    "word": "play",
+    "meaning": "To have fun with games or toys.",
+    "example": "Let's play tag."
+  },
+  {
+    "id": "g1_0088",
+    "grade": 1,
+    "order": 88,
+    "word": "lie",
+    "meaning": "To rest flat. Also, to say something that is not true.",
+    "example": "I lie down on my bed."
+  },
+  {
+    "id": "g1_0089",
+    "grade": 1,
+    "order": 89,
+    "word": "like",
+    "meaning": "To enjoy something.",
+    "example": "I like pancakes."
+  },
+  {
+    "id": "g1_0090",
+    "grade": 1,
+    "order": 90,
+    "word": "came",
+    "meaning": "Moved toward here before.",
+    "example": "My friend came to my house."
+  },
+  {
+    "id": "g1_0091",
+    "grade": 1,
+    "order": 91,
+    "word": "dark",
+    "meaning": "Without light.",
+    "example": "It is dark at night."
+  },
+  {
+    "id": "g1_0092",
+    "grade": 1,
+    "order": 92,
+    "word": "before",
+    "meaning": "Earlier than something.",
+    "example": "Wash your hands before you eat."
+  },
+  {
+    "id": "g1_0093",
+    "grade": 1,
+    "order": 93,
+    "word": "say",
+    "meaning": "To speak words.",
+    "example": "Say \"please\" and \"thank you.\""
+  },
+  {
+    "id": "g1_0094",
+    "grade": 1,
+    "order": 94,
+    "word": "road",
+    "meaning": "A long path for cars.",
+    "example": "The car drove down the road."
+  },
+  {
+    "id": "g1_0095",
+    "grade": 1,
+    "order": 95,
+    "word": "some",
+    "meaning": "A few, but not all.",
+    "example": "I ate some grapes."
+  },
+  {
+    "id": "g1_0096",
+    "grade": 1,
+    "order": 96,
+    "word": "come",
+    "meaning": "To move toward here.",
+    "example": "Come and see my drawing!"
+  },
+  {
+    "id": "g1_0097",
+    "grade": 1,
+    "order": 97,
+    "word": "orange",
+    "meaning": "A round fruit, and also the color of that fruit.",
+    "example": "I ate an orange."
+  },
+  {
+    "id": "g1_0098",
+    "grade": 1,
+    "order": 98,
+    "word": "color",
+    "meaning": "Red, blue, and green are each a color.",
+    "example": "What is your favorite color?"
+  },
+  {
+    "id": "g1_0099",
+    "grade": 1,
+    "order": 99,
+    "word": "says",
+    "meaning": "Speaks words.",
+    "example": "The teacher says to sit down."
+  },
+  {
+    "id": "g1_0100",
+    "grade": 1,
+    "order": 100,
+    "word": "they",
+    "meaning": "A word for other people.",
+    "example": "They are playing outside."
+  },
+  {
+    "id": "g1_0101",
+    "grade": 1,
+    "order": 101,
+    "word": "ran",
+    "meaning": "Moved fast with your legs before.",
+    "example": "The dog ran after the ball."
+  },
+  {
+    "id": "g1_0102",
+    "grade": 1,
+    "order": 102,
+    "word": "back",
+    "meaning": "The part behind you. Also, to return.",
+    "example": "I will be back soon."
+  },
+  {
+    "id": "g1_0103",
+    "grade": 1,
+    "order": 103,
+    "word": "jet",
+    "meaning": "A very fast airplane.",
+    "example": "The jet flew high in the sky."
+  },
+  {
+    "id": "g1_0104",
+    "grade": 1,
+    "order": 104,
+    "word": "when",
+    "meaning": "A question word about time.",
+    "example": "When is lunch?"
+  },
+  {
+    "id": "g1_0105",
+    "grade": 1,
+    "order": 105,
+    "word": "six",
+    "meaning": "The number 6.",
+    "example": "An ant has six legs."
+  },
+  {
+    "id": "g1_0106",
+    "grade": 1,
+    "order": 106,
+    "word": "will",
+    "meaning": "Tells about something that is going to happen.",
+    "example": "I will help you."
+  },
+  {
+    "id": "g1_0107",
+    "grade": 1,
+    "order": 107,
+    "word": "hat",
+    "meaning": "Something you wear on your head.",
+    "example": "I wear a hat in the sun."
+  },
+  {
+    "id": "g1_0108",
+    "grade": 1,
+    "order": 108,
+    "word": "black",
+    "meaning": "The darkest color, like the night sky.",
+    "example": "My cat is black."
+  },
+  {
+    "id": "g1_0109",
+    "grade": 1,
+    "order": 109,
+    "word": "well",
+    "meaning": "In a good way. Also a deep hole for water.",
+    "example": "She sings very well."
+  },
+  {
+    "id": "g1_0110",
+    "grade": 1,
+    "order": 110,
+    "word": "then",
+    "meaning": "Next, or at that time.",
+    "example": "First we eat, then we play."
+  },
+  {
+    "id": "g1_0111",
+    "grade": 1,
+    "order": 111,
+    "word": "big",
+    "meaning": "Very large.",
+    "example": "An elephant is big."
+  },
+  {
+    "id": "g1_0112",
+    "grade": 1,
+    "order": 112,
+    "word": "hill",
+    "meaning": "Land that rises up, smaller than a mountain.",
+    "example": "We rolled down the hill."
+  },
+  {
+    "id": "g1_0113",
+    "grade": 1,
+    "order": 113,
+    "word": "has",
+    "meaning": "Owns or holds something.",
+    "example": "She has a puppy."
+  },
+  {
+    "id": "g1_0114",
+    "grade": 1,
+    "order": 114,
+    "word": "that",
+    "meaning": "A word to point at something.",
+    "example": "I want that one."
+  },
+  {
+    "id": "g1_0115",
+    "grade": 1,
+    "order": 115,
+    "word": "left",
+    "meaning": "The opposite of right. Also, went away.",
+    "example": "Raise your left hand."
+  },
+  {
+    "id": "g1_0116",
+    "grade": 1,
+    "order": 116,
+    "word": "them",
+    "meaning": "A word for other people or things.",
+    "example": "I helped them clean up."
+  },
+  {
+    "id": "g1_0117",
+    "grade": 1,
+    "order": 117,
+    "word": "with",
+    "meaning": "Together.",
+    "example": "I play with my friends."
+  },
+  {
+    "id": "g1_0118",
+    "grade": 1,
+    "order": 118,
+    "word": "think",
+    "meaning": "To use your brain.",
+    "example": "I think it will rain."
+  },
+  {
+    "id": "g1_0119",
+    "grade": 1,
+    "order": 119,
+    "word": "flat",
+    "meaning": "Smooth and even, with no bumps.",
+    "example": "The table is flat."
+  },
+  {
+    "id": "g1_0120",
+    "grade": 1,
+    "order": 120,
+    "word": "fast",
+    "meaning": "Very quick.",
+    "example": "A cheetah is fast."
+  },
+  {
+    "id": "g1_0121",
+    "grade": 1,
+    "order": 121,
+    "word": "head",
+    "meaning": "The top part of your body with your eyes and mouth.",
+    "example": "I wear a hat on my head."
+  },
+  {
+    "id": "g1_0122",
+    "grade": 1,
+    "order": 122,
+    "word": "went",
+    "meaning": "Moved to a place before.",
+    "example": "We went to the zoo."
+  },
+  {
+    "id": "g1_0123",
+    "grade": 1,
+    "order": 123,
+    "word": "this",
+    "meaning": "A word to point at something close.",
+    "example": "This is my favorite book."
+  },
+  {
+    "id": "g1_0124",
+    "grade": 1,
+    "order": 124,
+    "word": "little",
+    "meaning": "Very small.",
+    "example": "The mouse is little."
+  },
+  {
+    "id": "g1_0125",
+    "grade": 1,
+    "order": 125,
+    "word": "you",
+    "meaning": "The person someone is talking to.",
+    "example": "I love you."
+  },
+  {
+    "id": "g1_0126",
+    "grade": 1,
+    "order": 126,
+    "word": "your",
+    "meaning": "Belonging to you.",
+    "example": "Is this your pencil?"
+  },
+  {
+    "id": "g1_0127",
+    "grade": 1,
+    "order": 127,
+    "word": "very",
+    "meaning": "A lot; really.",
+    "example": "It is very cold."
+  },
+  {
+    "id": "g1_0128",
+    "grade": 1,
+    "order": 128,
+    "word": "want",
+    "meaning": "To wish to have something.",
+    "example": "I want a puppy."
+  },
+  {
+    "id": "g1_0129",
+    "grade": 1,
+    "order": 129,
+    "word": "pretty",
+    "meaning": "Nice to look at.",
+    "example": "The flowers are pretty."
+  },
+  {
+    "id": "g1_0130",
+    "grade": 1,
+    "order": 130,
+    "word": "giving",
+    "meaning": "Handing something to someone.",
+    "example": "I am giving Mom a card."
+  },
+  {
+    "id": "g1_0131",
+    "grade": 1,
+    "order": 131,
+    "word": "box",
+    "meaning": "A container with flat sides.",
+    "example": "The toys are in the box."
+  },
+  {
+    "id": "g1_0132",
+    "grade": 1,
+    "order": 132,
+    "word": "all",
+    "meaning": "Every one.",
+    "example": "All the kids sang."
+  },
+  {
+    "id": "g1_0133",
+    "grade": 1,
+    "order": 133,
+    "word": "just",
+    "meaning": "Only. Also, a moment ago.",
+    "example": "I just finished my lunch."
+  },
+  {
+    "id": "g1_0134",
+    "grade": 1,
+    "order": 134,
+    "word": "cut",
+    "meaning": "To make something into pieces with scissors or a knife.",
+    "example": "I cut the paper."
+  },
+  {
+    "id": "g1_0135",
+    "grade": 1,
+    "order": 135,
+    "word": "too",
+    "meaning": "Also. Or more than needed.",
+    "example": "I want to come too!"
+  },
+  {
+    "id": "g1_0136",
+    "grade": 1,
+    "order": 136,
+    "word": "foot",
+    "meaning": "The part of your body at the end of your leg that you stand on.",
+    "example": "I hurt my foot."
+  },
+  {
+    "id": "g1_0137",
+    "grade": 1,
+    "order": 137,
+    "word": "hot",
+    "meaning": "Very warm.",
+    "example": "The soup is hot."
+  },
+  {
+    "id": "g1_0138",
+    "grade": 1,
+    "order": 138,
+    "word": "ball",
+    "meaning": "A round toy you can throw, kick, or bounce.",
+    "example": "Kick the ball!"
+  },
+  {
+    "id": "g1_0139",
+    "grade": 1,
+    "order": 139,
+    "word": "must",
+    "meaning": "Have to.",
+    "example": "You must brush your teeth."
+  },
+  {
+    "id": "g1_0140",
+    "grade": 1,
+    "order": 140,
+    "word": "much",
+    "meaning": "A lot.",
+    "example": "Thank you very much."
+  },
+  {
+    "id": "g1_0141",
+    "grade": 1,
+    "order": 141,
+    "word": "soon",
+    "meaning": "In a short time.",
+    "example": "We will be there soon."
+  },
+  {
+    "id": "g1_0142",
+    "grade": 1,
+    "order": 142,
+    "word": "good",
+    "meaning": "Nice or right.",
+    "example": "You did a good job."
+  },
+  {
+    "id": "g1_0143",
+    "grade": 1,
+    "order": 143,
+    "word": "mom",
+    "meaning": "Another word for mother.",
+    "example": "My mom gives the best hugs."
+  },
+  {
+    "id": "g1_0144",
+    "grade": 1,
+    "order": 144,
+    "word": "call",
+    "meaning": "To shout to someone or talk on the phone.",
+    "example": "Call Grandma on the phone."
+  },
+  {
+    "id": "g1_0145",
+    "grade": 1,
+    "order": 145,
+    "word": "jump",
+    "meaning": "To push off the ground into the air.",
+    "example": "Frogs can jump far."
+  },
+  {
+    "id": "g1_0146",
+    "grade": 1,
+    "order": 146,
+    "word": "such",
+    "meaning": "So much; very.",
+    "example": "It is such a nice day."
+  },
+  {
+    "id": "g1_0147",
+    "grade": 1,
+    "order": 147,
+    "word": "food",
+    "meaning": "What we eat to grow strong.",
+    "example": "Apples are healthy food."
+  },
+  {
+    "id": "g1_0148",
+    "grade": 1,
+    "order": 148,
+    "word": "look",
+    "meaning": "To use your eyes to see.",
+    "example": "Look at the stars!"
+  },
+  {
+    "id": "g1_0149",
+    "grade": 1,
+    "order": 149,
+    "word": "lost",
+    "meaning": "Cannot find something.",
+    "example": "I lost my mitten."
+  },
+  {
+    "id": "g1_0150",
+    "grade": 1,
+    "order": 150,
+    "word": "fall",
+    "meaning": "To drop down. Also the season when leaves drop.",
+    "example": "Be careful not to fall."
+  },
+  {
+    "id": "g1_0151",
+    "grade": 1,
+    "order": 151,
+    "word": "lunch",
+    "meaning": "The meal we eat in the middle of the day.",
+    "example": "I eat lunch at noon."
+  },
+  {
+    "id": "g1_0152",
+    "grade": 1,
+    "order": 152,
+    "word": "thumb",
+    "meaning": "The short, thick finger on your hand.",
+    "example": "Give me a thumbs up!"
+  },
+  {
+    "id": "g1_0153",
+    "grade": 1,
+    "order": 153,
+    "word": "moon",
+    "meaning": "The big ball in the sky that goes around the Earth. We often see it at night.",
+    "example": "The moon is full tonight."
+  },
+  {
+    "id": "g1_0154",
+    "grade": 1,
+    "order": 154,
+    "word": "took",
+    "meaning": "Picked up and carried before.",
+    "example": "I took my book to school."
+  },
+  {
+    "id": "g1_0155",
+    "grade": 1,
+    "order": 155,
+    "word": "walk",
+    "meaning": "To move on your feet, slower than running.",
+    "example": "We walk the dog every day."
+  },
+  {
+    "id": "g1_0156",
+    "grade": 1,
+    "order": 156,
+    "word": "small",
+    "meaning": "Little; not big.",
+    "example": "An ant is small."
+  },
+  {
+    "id": "g1_0157",
+    "grade": 1,
+    "order": 157,
+    "word": "push",
+    "meaning": "To press something away from you.",
+    "example": "Push the door open."
+  },
+  {
+    "id": "g1_0158",
+    "grade": 1,
+    "order": 158,
+    "word": "pull",
+    "meaning": "To bring something toward you.",
+    "example": "Pull the wagon."
+  },
+  {
+    "id": "g1_0159",
+    "grade": 1,
+    "order": 159,
+    "word": "move",
+    "meaning": "To go from one place to another.",
+    "example": "Move your chair closer."
+  },
+  {
+    "id": "g1_0160",
+    "grade": 1,
+    "order": 160,
+    "word": "put",
+    "meaning": "To place something somewhere.",
+    "example": "Put your toys away."
+  },
+  {
+    "id": "g1_0161",
+    "grade": 1,
+    "order": 161,
+    "word": "first",
+    "meaning": "Before all the others; number one.",
+    "example": "I was first in line."
+  },
+  {
+    "id": "g1_0162",
+    "grade": 1,
+    "order": 162,
+    "word": "her",
+    "meaning": "A word for a girl or woman.",
+    "example": "I gave her a flower."
+  },
+  {
+    "id": "g1_0163",
+    "grade": 1,
+    "order": 163,
+    "word": "out",
+    "meaning": "Not inside.",
+    "example": "Let's go out and play."
+  },
+  {
+    "id": "g1_0164",
+    "grade": 1,
+    "order": 164,
+    "word": "boy",
+    "meaning": "A young male child.",
+    "example": "The boy has a kite."
+  },
+  {
+    "id": "g1_0165",
+    "grade": 1,
+    "order": 165,
+    "word": "isn't",
+    "meaning": "Short for \"is not.\"",
+    "example": "It isn't raining."
+  },
+  {
+    "id": "g1_0166",
+    "grade": 1,
+    "order": 166,
+    "word": "ant",
+    "meaning": "A tiny bug that lives in a group.",
+    "example": "An ant can carry a crumb."
+  },
+  {
+    "id": "g1_0167",
+    "grade": 1,
+    "order": 167,
+    "word": "girl",
+    "meaning": "A young female child.",
+    "example": "The girl rode her bike."
+  },
+  {
+    "id": "g1_0168",
+    "grade": 1,
+    "order": 168,
+    "word": "mother",
+    "meaning": "A mom.",
+    "example": "My mother reads to me."
+  },
+  {
+    "id": "g1_0169",
+    "grade": 1,
+    "order": 169,
+    "word": "our",
+    "meaning": "Belonging to us.",
+    "example": "This is our house."
+  },
+  {
+    "id": "g1_0170",
+    "grade": 1,
+    "order": 170,
+    "word": "toy",
+    "meaning": "Something you play with.",
+    "example": "My favorite toy is a teddy bear."
+  },
+  {
+    "id": "g1_0171",
+    "grade": 1,
+    "order": 171,
+    "word": "didn't",
+    "meaning": "Short for \"did not.\"",
+    "example": "I didn't eat the cookie."
+  },
+  {
+    "id": "g1_0172",
+    "grade": 1,
+    "order": 172,
+    "word": "bat",
+    "meaning": "A stick to hit a ball. Also a flying animal.",
+    "example": "He hit the ball with a bat."
+  },
+  {
+    "id": "g1_0173",
+    "grade": 1,
+    "order": 173,
+    "word": "bird",
+    "meaning": "An animal with feathers and wings.",
+    "example": "The bird sang a song."
+  },
+  {
+    "id": "g1_0174",
+    "grade": 1,
+    "order": 174,
+    "word": "together",
+    "meaning": "With each other.",
+    "example": "We built the tower together."
+  },
+  {
+    "id": "g1_0175",
+    "grade": 1,
+    "order": 175,
+    "word": "house",
+    "meaning": "A building where people live.",
+    "example": "My house has a red door."
+  },
+  {
+    "id": "g1_0176",
+    "grade": 1,
+    "order": 176,
+    "word": "joy",
+    "meaning": "A feeling of great happiness.",
+    "example": "The puppy filled us with joy."
+  },
+  {
+    "id": "g1_0177",
+    "grade": 1,
+    "order": 177,
+    "word": "don't",
+    "meaning": "Short for \"do not.\"",
+    "example": "Don't touch the stove."
+  },
+  {
+    "id": "g1_0178",
+    "grade": 1,
+    "order": 178,
+    "word": "bag",
+    "meaning": "Something you carry things in.",
+    "example": "Put the apples in the bag."
+  },
+  {
+    "id": "g1_0179",
+    "grade": 1,
+    "order": 179,
+    "word": "turn",
+    "meaning": "To move around. Also, a chance to go.",
+    "example": "It is your turn."
+  },
+  {
+    "id": "g1_0180",
+    "grade": 1,
+    "order": 180,
+    "word": "were",
+    "meaning": "Tells about more than one thing in the past.",
+    "example": "We were at the beach."
+  },
+  {
+    "id": "g1_0181",
+    "grade": 1,
+    "order": 181,
+    "word": "round",
+    "meaning": "Shaped like a circle or ball.",
+    "example": "A ball is round."
+  },
+  {
+    "id": "g1_0182",
+    "grade": 1,
+    "order": 182,
+    "word": "coin",
+    "meaning": "A small round piece of metal money.",
+    "example": "I put a coin in my piggy bank."
+  },
+  {
+    "id": "g1_0183",
+    "grade": 1,
+    "order": 183,
+    "word": "we're",
+    "meaning": "Short for \"we are.\"",
+    "example": "We're going to the park."
+  },
+  {
+    "id": "g1_0184",
+    "grade": 1,
+    "order": 184,
+    "word": "can't",
+    "meaning": "Short for \"cannot.\"",
+    "example": "I can't reach the shelf."
+  },
+  {
+    "id": "g1_0185",
+    "grade": 1,
+    "order": 185,
+    "word": "they're",
+    "meaning": "Short for \"they are.\"",
+    "example": "They're my cousins."
+  },
+  {
+    "id": "g1_0186",
+    "grade": 1,
+    "order": 186,
+    "word": "where",
+    "meaning": "A question word about a place.",
+    "example": "Where is my shoe?"
+  },
+  {
+    "id": "g1_0187",
+    "grade": 1,
+    "order": 187,
+    "word": "four",
+    "meaning": "The number 4.",
+    "example": "A dog has four legs."
+  },
+  {
+    "id": "g1_0188",
+    "grade": 1,
+    "order": 188,
+    "word": "does",
+    "meaning": "Do, for one person or thing.",
+    "example": "She does her best."
+  },
+  {
+    "id": "g1_0189",
+    "grade": 1,
+    "order": 189,
+    "word": "doesn't",
+    "meaning": "Short for \"does not.\"",
+    "example": "He doesn't like peas."
+  },
+  {
+    "id": "g1_0190",
+    "grade": 1,
+    "order": 190,
+    "word": "wasn't",
+    "meaning": "Short for \"was not.\"",
+    "example": "It wasn't me!"
+  },
+  {
+    "id": "g1_0191",
+    "grade": 1,
+    "order": 191,
+    "word": "nine",
+    "meaning": "The number 9.",
+    "example": "I am nine years old."
+  },
+  {
+    "id": "g1_0192",
+    "grade": 1,
+    "order": 192,
+    "word": "make",
+    "meaning": "To build or create something.",
+    "example": "Let's make a cake."
+  },
+  {
+    "id": "g1_0193",
+    "grade": 1,
+    "order": 193,
+    "word": "seen",
+    "meaning": "Looked at before.",
+    "example": "Have you seen my cat?"
+  },
+  {
+    "id": "g1_0194",
+    "grade": 1,
+    "order": 194,
+    "word": "eat",
+    "meaning": "To put food in your mouth and swallow it.",
+    "example": "I eat cereal for breakfast."
+  },
+  {
+    "id": "g1_0195",
+    "grade": 1,
+    "order": 195,
+    "word": "dad",
+    "meaning": "Another word for father.",
+    "example": "My dad tells funny jokes."
+  },
+  {
+    "id": "g1_0196",
+    "grade": 1,
+    "order": 196,
+    "word": "ask",
+    "meaning": "To say a question.",
+    "example": "Ask the teacher for help."
+  },
+  {
+    "id": "g1_0197",
+    "grade": 1,
+    "order": 197,
+    "word": "ride",
+    "meaning": "To sit on something that moves.",
+    "example": "I ride my bike."
+  },
+  {
+    "id": "g1_0198",
+    "grade": 1,
+    "order": 198,
+    "word": "made",
+    "meaning": "Built or created before.",
+    "example": "I made a card for Mom."
+  },
+  {
+    "id": "g1_0199",
+    "grade": 1,
+    "order": 199,
+    "word": "keep",
+    "meaning": "To hold on to something.",
+    "example": "You can keep the sticker."
+  },
+  {
+    "id": "g1_0200",
+    "grade": 1,
+    "order": 200,
+    "word": "read",
+    "meaning": "To look at words and understand them.",
+    "example": "I like to read books."
+  },
+  {
+    "id": "g1_0201",
+    "grade": 1,
+    "order": 201,
+    "word": "bad",
+    "meaning": "Not good.",
+    "example": "I had a bad dream."
+  },
+  {
+    "id": "g1_0202",
+    "grade": 1,
+    "order": 202,
+    "word": "sat",
+    "meaning": "Was sitting before.",
+    "example": "The cat sat on the mat."
+  },
+  {
+    "id": "g1_0203",
+    "grade": 1,
+    "order": 203,
+    "word": "bike",
+    "meaning": "A ride with two wheels and pedals.",
+    "example": "I ride my bike to the park."
+  },
+  {
+    "id": "g1_0204",
+    "grade": 1,
+    "order": 204,
+    "word": "blue",
+    "meaning": "The color of the sky.",
+    "example": "The ocean is blue."
+  },
+  {
+    "id": "g1_0205",
+    "grade": 1,
+    "order": 205,
+    "word": "green",
+    "meaning": "The color of grass.",
+    "example": "Frogs are green."
+  },
+  {
+    "id": "g1_0206",
+    "grade": 1,
+    "order": 206,
+    "word": "near",
+    "meaning": "Close by.",
+    "example": "The school is near my house."
+  },
+  {
+    "id": "g1_0207",
+    "grade": 1,
+    "order": 207,
+    "word": "last",
+    "meaning": "At the end; after all others.",
+    "example": "Z is the last letter."
+  },
+  {
+    "id": "g1_0208",
+    "grade": 1,
+    "order": 208,
+    "word": "mad",
+    "meaning": "Angry.",
+    "example": "He was mad when he lost."
+  },
+  {
+    "id": "g1_0209",
+    "grade": 1,
+    "order": 209,
+    "word": "time",
+    "meaning": "What a clock shows. Also when something happens.",
+    "example": "It is time for bed."
+  },
+  {
+    "id": "g1_0210",
+    "grade": 1,
+    "order": 210,
+    "word": "white",
+    "meaning": "The color of snow.",
+    "example": "Clouds are white."
+  },
+  {
+    "id": "g1_0211",
+    "grade": 1,
+    "order": 211,
+    "word": "three",
+    "meaning": "The number 3.",
+    "example": "A triangle has three sides."
+  },
+  {
+    "id": "g1_0212",
+    "grade": 1,
+    "order": 212,
+    "word": "year",
+    "meaning": "Twelve months.",
+    "example": "I turn seven this year."
+  },
+  {
+    "id": "g1_0213",
+    "grade": 1,
+    "order": 213,
+    "word": "after",
+    "meaning": "Later than something.",
+    "example": "We play after school."
+  },
+  {
+    "id": "g1_0214",
+    "grade": 1,
+    "order": 214,
+    "word": "than",
+    "meaning": "Used to compare two things.",
+    "example": "A horse is bigger than a dog."
+  },
+  {
+    "id": "g1_0215",
+    "grade": 1,
+    "order": 215,
+    "word": "done",
+    "meaning": "Finished.",
+    "example": "I am done with my dinner."
+  },
+  {
+    "id": "g1_0216",
+    "grade": 1,
+    "order": 216,
+    "word": "gone",
+    "meaning": "Went away; not here anymore.",
+    "example": "The cookies are all gone!"
+  },
+  {
+    "id": "g1_0217",
+    "grade": 1,
+    "order": 217,
+    "word": "their",
+    "meaning": "Belonging to them.",
+    "example": "They love their dog."
+  },
+  {
+    "id": "g1_0218",
+    "grade": 1,
+    "order": 218,
+    "word": "because",
+    "meaning": "Tells the reason why.",
+    "example": "I wore a coat because it was cold."
+  },
+  {
+    "id": "g1_0219",
+    "grade": 1,
+    "order": 219,
+    "word": "father",
+    "meaning": "A dad.",
+    "example": "My father makes pancakes."
+  },
+  {
+    "id": "g1_0220",
+    "grade": 1,
+    "order": 220,
+    "word": "laugh",
+    "meaning": "The sound you make when something is funny.",
+    "example": "The joke made me laugh."
+  },
+  {
+    "id": "g1_0221",
+    "grade": 1,
+    "order": 221,
+    "word": "bed",
+    "meaning": "What you sleep on.",
+    "example": "I go to bed at eight."
+  },
+  {
+    "id": "g1_0222",
+    "grade": 1,
+    "order": 222,
+    "word": "men",
+    "meaning": "More than one man.",
+    "example": "The men built a house."
+  },
+  {
+    "id": "g1_0223",
+    "grade": 1,
+    "order": 223,
+    "word": "sit",
+    "meaning": "To rest on a chair or the floor.",
+    "example": "Please sit down."
+  },
+  {
+    "id": "g1_0224",
+    "grade": 1,
+    "order": 224,
+    "word": "bit",
+    "meaning": "A small piece. Also, used teeth on something.",
+    "example": "I ate a bit of cake."
+  },
+  {
+    "id": "g1_0225",
+    "grade": 1,
+    "order": 225,
+    "word": "low",
+    "meaning": "Close to the ground; not high.",
+    "example": "The branch is low."
+  },
+  {
+    "id": "g1_0226",
+    "grade": 1,
+    "order": 226,
+    "word": "now",
+    "meaning": "Right at this time.",
+    "example": "Clean up now, please."
+  },
+  {
+    "id": "g1_0227",
+    "grade": 1,
+    "order": 227,
+    "word": "pet",
+    "meaning": "An animal that lives with you.",
+    "example": "My pet is a hamster."
+  },
+  {
+    "id": "g1_0228",
+    "grade": 1,
+    "order": 228,
+    "word": "end",
+    "meaning": "The last part.",
+    "example": "I read to the end of the book."
+  },
+  {
+    "id": "g1_0229",
+    "grade": 1,
+    "order": 229,
+    "word": "hit",
+    "meaning": "To touch something hard and fast.",
+    "example": "She hit the ball."
+  },
+  {
+    "id": "g1_0230",
+    "grade": 1,
+    "order": 230,
+    "word": "dish",
+    "meaning": "A plate or bowl for food.",
+    "example": "Put the dish in the sink."
+  },
+  {
+    "id": "g1_0231",
+    "grade": 1,
+    "order": 231,
+    "word": "slow",
+    "meaning": "Not fast.",
+    "example": "A turtle is slow."
+  },
+  {
+    "id": "g1_0232",
+    "grade": 1,
+    "order": 232,
+    "word": "down",
+    "meaning": "Toward the ground.",
+    "example": "Sit down, please."
+  },
+  {
+    "id": "g1_0233",
+    "grade": 1,
+    "order": 233,
+    "word": "leg",
+    "meaning": "The body part you use to walk.",
+    "example": "I hurt my leg."
+  },
+  {
+    "id": "g1_0234",
+    "grade": 1,
+    "order": 234,
+    "word": "less",
+    "meaning": "A smaller amount.",
+    "example": "I want less ice in my drink."
+  },
+  {
+    "id": "g1_0235",
+    "grade": 1,
+    "order": 235,
+    "word": "drink",
+    "meaning": "To swallow water, milk, or juice.",
+    "example": "Drink your milk."
+  },
+  {
+    "id": "g1_0236",
+    "grade": 1,
+    "order": 236,
+    "word": "still",
+    "meaning": "Not moving. Also, even now.",
+    "example": "Sit still for the photo."
+  },
+  {
+    "id": "g1_0237",
+    "grade": 1,
+    "order": 237,
+    "word": "know",
+    "meaning": "To have something in your brain.",
+    "example": "I know my ABCs."
+  },
+  {
+    "id": "g1_0238",
+    "grade": 1,
+    "order": 238,
+    "word": "brown",
+    "meaning": "The color of chocolate or dirt.",
+    "example": "The bear is brown."
+  },
+  {
+    "id": "g1_0239",
+    "grade": 1,
+    "order": 239,
+    "word": "help",
+    "meaning": "To do something nice to make a job easier for someone.",
+    "example": "Can you help me?"
+  },
+  {
+    "id": "g1_0240",
+    "grade": 1,
+    "order": 240,
+    "word": "never",
+    "meaning": "Not ever.",
+    "example": "I never eat worms!"
+  },
+  {
+    "id": "g1_0241",
+    "grade": 1,
+    "order": 241,
+    "word": "inch",
+    "meaning": "A small unit to measure how long something is.",
+    "example": "The bug is one inch long."
+  },
+  {
+    "id": "g1_0242",
+    "grade": 1,
+    "order": 242,
+    "word": "which",
+    "meaning": "A question word to choose.",
+    "example": "Which color do you like?"
+  },
+  {
+    "id": "g1_0243",
+    "grade": 1,
+    "order": 243,
+    "word": "tomorrow",
+    "meaning": "The day after today.",
+    "example": "Tomorrow is Saturday."
+  },
+  {
+    "id": "g1_0244",
+    "grade": 1,
+    "order": 244,
+    "word": "how",
+    "meaning": "A question word about the way something happens.",
+    "example": "How do you make a kite?"
+  },
+  {
+    "id": "g1_0245",
+    "grade": 1,
+    "order": 245,
+    "word": "seven",
+    "meaning": "The number 7.",
+    "example": "There are seven days in a week."
+  },
+  {
+    "id": "g1_0246",
+    "grade": 1,
+    "order": 246,
+    "word": "eight",
+    "meaning": "The number 8.",
+    "example": "A spider has eight legs."
+  },
+  {
+    "id": "g1_0247",
+    "grade": 1,
+    "order": 247,
+    "word": "both",
+    "meaning": "The two together.",
+    "example": "I like both of them."
+  },
+  {
+    "id": "g1_0248",
+    "grade": 1,
+    "order": 248,
+    "word": "myself",
+    "meaning": "Me, with no help from anyone else.",
+    "example": "I made it all by myself."
+  },
+  {
+    "id": "g1_0249",
+    "grade": 1,
+    "order": 249,
+    "word": "once",
+    "meaning": "One time.",
+    "example": "I went there once."
+  },
+  {
+    "id": "g1_0250",
+    "grade": 1,
+    "order": 250,
+    "word": "who",
+    "meaning": "A question word about a person.",
+    "example": "Who is at the door?"
+  },
+  {
+    "id": "g1_0251",
+    "grade": 1,
+    "order": 251,
+    "word": "cannot",
+    "meaning": "Not able to.",
+    "example": "I cannot find my shoe."
+  },
+  {
+    "id": "g1_0252",
+    "grade": 1,
+    "order": 252,
+    "word": "basket",
+    "meaning": "A container made of woven strips.",
+    "example": "Put the eggs in the basket."
+  },
+  {
+    "id": "g1_0253",
+    "grade": 1,
+    "order": 253,
+    "word": "sad",
+    "meaning": "Unhappy.",
+    "example": "I felt sad when it rained."
+  },
+  {
+    "id": "g1_0254",
+    "grade": 1,
+    "order": 254,
+    "word": "man",
+    "meaning": "A grown-up male person.",
+    "example": "The man has a hat."
+  },
+  {
+    "id": "g1_0255",
+    "grade": 1,
+    "order": 255,
+    "word": "fat",
+    "meaning": "Plump and round.",
+    "example": "The fat pig rolled in the mud."
+  },
+  {
+    "id": "g1_0256",
+    "grade": 1,
+    "order": 256,
+    "word": "fed",
+    "meaning": "Gave food to before.",
+    "example": "I fed the fish."
+  },
+  {
+    "id": "g1_0257",
+    "grade": 1,
+    "order": 257,
+    "word": "into",
+    "meaning": "Going inside of.",
+    "example": "The frog jumped into the pond."
+  },
+  {
+    "id": "g1_0258",
+    "grade": 1,
+    "order": 258,
+    "word": "yellow",
+    "meaning": "The color of a banana.",
+    "example": "The sun is yellow."
+  },
+  {
+    "id": "g1_0259",
+    "grade": 1,
+    "order": 259,
+    "word": "pat",
+    "meaning": "To tap gently with your hand.",
+    "example": "Pat the puppy softly."
+  },
+  {
+    "id": "g1_0260",
+    "grade": 1,
+    "order": 260,
+    "word": "bath",
+    "meaning": "Washing your body in a tub of water.",
+    "example": "I take a bath at night."
+  },
+  {
+    "id": "g1_0261",
+    "grade": 1,
+    "order": 261,
+    "word": "map",
+    "meaning": "A drawing that shows where places are.",
+    "example": "We used a map to find the park."
+  },
+  {
+    "id": "g1_0262",
+    "grade": 1,
+    "order": 262,
+    "word": "best",
+    "meaning": "Better than all the others.",
+    "example": "You are my best friend."
+  },
+  {
+    "id": "g1_0263",
+    "grade": 1,
+    "order": 263,
+    "word": "hello",
+    "meaning": "A word to greet someone.",
+    "example": "Hello! How are you?"
+  },
+  {
+    "id": "g1_0264",
+    "grade": 1,
+    "order": 264,
+    "word": "bottom",
+    "meaning": "The lowest part.",
+    "example": "The ball sank to the bottom."
+  },
+  {
+    "id": "g1_0265",
+    "grade": 1,
+    "order": 265,
+    "word": "flag",
+    "meaning": "A cloth with colors that stands for a country or group.",
+    "example": "The flag waved in the wind."
+  },
+  {
+    "id": "g1_0266",
+    "grade": 1,
+    "order": 266,
+    "word": "sang",
+    "meaning": "Made music with your voice before.",
+    "example": "We sang a song."
+  },
+  {
+    "id": "g1_0267",
+    "grade": 1,
+    "order": 267,
+    "word": "pan",
+    "meaning": "A flat pot for cooking.",
+    "example": "Dad cooked eggs in a pan."
+  },
+  {
+    "id": "g1_0268",
+    "grade": 1,
+    "order": 268,
+    "word": "next",
+    "meaning": "Coming right after.",
+    "example": "You are next in line."
+  },
+  {
+    "id": "g1_0269",
+    "grade": 1,
+    "order": 269,
+    "word": "often",
+    "meaning": "Many times.",
+    "example": "I often play outside."
+  },
+  {
+    "id": "g1_0270",
+    "grade": 1,
+    "order": 270,
+    "word": "sister",
+    "meaning": "A girl who has the same mom or dad as you.",
+    "example": "My sister is funny."
+  },
+  {
+    "id": "g1_0271",
+    "grade": 1,
+    "order": 271,
+    "word": "drank",
+    "meaning": "Swallowed a drink before.",
+    "example": "I drank my juice."
+  },
+  {
+    "id": "g1_0272",
+    "grade": 1,
+    "order": 272,
+    "word": "thank",
+    "meaning": "To tell someone you are happy for what they did.",
+    "example": "Thank you for the gift!"
+  },
+  {
+    "id": "g1_0273",
+    "grade": 1,
+    "order": 273,
+    "word": "hand",
+    "meaning": "The part at the end of your arm with fingers.",
+    "example": "Raise your hand."
+  },
+  {
+    "id": "g1_0274",
+    "grade": 1,
+    "order": 274,
+    "word": "twenty",
+    "meaning": "The number 20.",
+    "example": "I counted to twenty."
+  },
+  {
+    "id": "g1_0275",
+    "grade": 1,
+    "order": 275,
+    "word": "given",
+    "meaning": "Handed over to someone.",
+    "example": "I was given a prize."
+  },
+  {
+    "id": "g1_0276",
+    "grade": 1,
+    "order": 276,
+    "word": "again",
+    "meaning": "One more time.",
+    "example": "Read it again, please!"
+  },
+  {
+    "id": "g1_0277",
+    "grade": 1,
+    "order": 277,
+    "word": "cold",
+    "meaning": "Not warm; chilly.",
+    "example": "Ice is cold."
+  },
+  {
+    "id": "g1_0278",
+    "grade": 1,
+    "order": 278,
+    "word": "could",
+    "meaning": "Was able to. We also use it to ask nicely.",
+    "example": "Could you help me?"
+  },
+  {
+    "id": "g1_0279",
+    "grade": 1,
+    "order": 279,
+    "word": "would",
+    "meaning": "Shows what someone wants or might do.",
+    "example": "I would like some water."
+  },
+  {
+    "id": "g1_0280",
+    "grade": 1,
+    "order": 280,
+    "word": "should",
+    "meaning": "Means it is a good idea to do something.",
+    "example": "You should wear a coat."
+  },
+  {
+    "id": "g1_0281",
+    "grade": 1,
+    "order": 281,
+    "word": "feel",
+    "meaning": "To touch, or to have a feeling inside.",
+    "example": "I feel happy."
+  },
+  {
+    "id": "g1_0282",
+    "grade": 1,
+    "order": 282,
+    "word": "week",
+    "meaning": "Seven days.",
+    "example": "We go to school five days a week."
+  },
+  {
+    "id": "g1_0283",
+    "grade": 1,
+    "order": 283,
+    "word": "use",
+    "meaning": "To do something with a thing.",
+    "example": "Use a pencil to write."
+  },
+  {
+    "id": "g1_0284",
+    "grade": 1,
+    "order": 284,
+    "word": "ate",
+    "meaning": "Had food before.",
+    "example": "I ate a sandwich."
+  },
+  {
+    "id": "g1_0285",
+    "grade": 1,
+    "order": 285,
+    "word": "dear",
+    "meaning": "Loved or very special to you. We also write it at the start of a letter.",
+    "example": "Dear Grandma, I miss you."
+  },
+  {
+    "id": "g1_0286",
+    "grade": 1,
+    "order": 286,
+    "word": "lay",
+    "meaning": "To put something down flat.",
+    "example": "Lay the blanket on the grass."
+  },
+  {
+    "id": "g1_0287",
+    "grade": 1,
+    "order": 287,
+    "word": "feet",
+    "meaning": "More than one foot.",
+    "example": "I have two feet."
+  },
+  {
+    "id": "g1_0288",
+    "grade": 1,
+    "order": 288,
+    "word": "tree",
+    "meaning": "A tall plant with a trunk and branches.",
+    "example": "The bird is in the tree."
+  },
+  {
+    "id": "g1_0289",
+    "grade": 1,
+    "order": 289,
+    "word": "same",
+    "meaning": "Just alike.",
+    "example": "We have the same shoes!"
+  },
+  {
+    "id": "g1_0290",
+    "grade": 1,
+    "order": 290,
+    "word": "cake",
+    "meaning": "A sweet baked treat for parties.",
+    "example": "We ate birthday cake."
+  },
+  {
+    "id": "g1_0291",
+    "grade": 1,
+    "order": 291,
+    "word": "leave",
+    "meaning": "To go away.",
+    "example": "We leave at noon."
+  },
+  {
+    "id": "g1_0292",
+    "grade": 1,
+    "order": 292,
+    "word": "may",
+    "meaning": "Means you are allowed. Also a month.",
+    "example": "May I have a cookie?"
+  },
+  {
+    "id": "g1_0293",
+    "grade": 1,
+    "order": 293,
+    "word": "need",
+    "meaning": "To have to have something.",
+    "example": "Plants need water."
+  },
+  {
+    "id": "g1_0294",
+    "grade": 1,
+    "order": 294,
+    "word": "sleep",
+    "meaning": "To rest with your eyes closed.",
+    "example": "I sleep in my bed."
+  },
+  {
+    "id": "g1_0295",
+    "grade": 1,
+    "order": 295,
+    "word": "game",
+    "meaning": "Something you play with rules.",
+    "example": "Let's play a board game."
+  },
+  {
+    "id": "g1_0296",
+    "grade": 1,
+    "order": 296,
+    "word": "side",
+    "meaning": "The left or right part of something.",
+    "example": "Stand by my side."
+  },
+  {
+    "id": "g1_0297",
+    "grade": 1,
+    "order": 297,
+    "word": "clean",
+    "meaning": "Not dirty.",
+    "example": "My room is clean."
+  },
+  {
+    "id": "g1_0298",
+    "grade": 1,
+    "order": 298,
+    "word": "gray",
+    "meaning": "A color made from black and white.",
+    "example": "The elephant is gray."
+  },
+  {
+    "id": "g1_0299",
+    "grade": 1,
+    "order": 299,
+    "word": "meet",
+    "meaning": "To see someone for the first time, or get together.",
+    "example": "Nice to meet you!"
+  },
+  {
+    "id": "g1_0300",
+    "grade": 1,
+    "order": 300,
+    "word": "street",
+    "meaning": "A road in a town.",
+    "example": "I live on Oak Street."
+  },
+  {
+    "id": "g1_0301",
+    "grade": 1,
+    "order": 301,
+    "word": "while",
+    "meaning": "During the time that.",
+    "example": "I sing while I play."
+  },
+  {
+    "id": "g1_0302",
+    "grade": 1,
+    "order": 302,
+    "word": "write",
+    "meaning": "To put letters and words on paper.",
+    "example": "I can write my name."
+  },
+  {
+    "id": "g1_0303",
+    "grade": 1,
+    "order": 303,
+    "word": "easy",
+    "meaning": "Not hard.",
+    "example": "This puzzle is easy."
+  },
+  {
+    "id": "g1_0304",
+    "grade": 1,
+    "order": 304,
+    "word": "today",
+    "meaning": "This day.",
+    "example": "Today is my birthday!"
+  },
+  {
+    "id": "g1_0305",
+    "grade": 1,
+    "order": 305,
+    "word": "been",
+    "meaning": "A form of \"be\" we use after have, has, or had.",
+    "example": "I have been to the zoo."
+  },
+  {
+    "id": "g1_0306",
+    "grade": 1,
+    "order": 306,
+    "word": "friend",
+    "meaning": "Someone you like and who likes you.",
+    "example": "Sam is my friend."
+  },
+  {
+    "id": "g1_0307",
+    "grade": 1,
+    "order": 307,
+    "word": "old",
+    "meaning": "Has lived a long time; not new.",
+    "example": "My grandpa is old."
+  },
+  {
+    "id": "g1_0308",
+    "grade": 1,
+    "order": 308,
+    "word": "told",
+    "meaning": "Said to someone before.",
+    "example": "She told me a secret."
+  },
+  {
+    "id": "g1_0309",
+    "grade": 1,
+    "order": 309,
+    "word": "try",
+    "meaning": "To do your best to do something.",
+    "example": "Try to catch the ball."
+  },
+  {
+    "id": "g1_0310",
+    "grade": 1,
+    "order": 310,
+    "word": "buy",
+    "meaning": "To pay money to get something.",
+    "example": "We buy food at the store."
+  },
+  {
+    "id": "g1_0311",
+    "grade": 1,
+    "order": 311,
+    "word": "mix",
+    "meaning": "To stir things together.",
+    "example": "Mix the flour and eggs."
+  },
+  {
+    "id": "g1_0312",
+    "grade": 1,
+    "order": 312,
+    "word": "lip",
+    "meaning": "The soft edge of your mouth.",
+    "example": "I put lip balm on my lip."
+  },
+  {
+    "id": "g1_0313",
+    "grade": 1,
+    "order": 313,
+    "word": "odd",
+    "meaning": "Strange. Also, numbers like 1, 3, 5.",
+    "example": "That is an odd sound."
+  },
+  {
+    "id": "g1_0314",
+    "grade": 1,
+    "order": 314,
+    "word": "dig",
+    "meaning": "To make a hole in the ground.",
+    "example": "Dogs like to dig."
+  },
+  {
+    "id": "g1_0315",
+    "grade": 1,
+    "order": 315,
+    "word": "neck",
+    "meaning": "The part that holds your head to your body.",
+    "example": "A giraffe has a long neck."
+  },
+  {
+    "id": "g1_0316",
+    "grade": 1,
+    "order": 316,
+    "word": "pink",
+    "meaning": "A light red color.",
+    "example": "The pig is pink."
+  },
+  {
+    "id": "g1_0317",
+    "grade": 1,
+    "order": 317,
+    "word": "win",
+    "meaning": "To come in first in a game.",
+    "example": "I hope our team will win."
+  },
+  {
+    "id": "g1_0318",
+    "grade": 1,
+    "order": 318,
+    "word": "frog",
+    "meaning": "A small animal that hops, lives near water, and says \"ribbit.\"",
+    "example": "The frog jumped into the pond."
+  },
+  {
+    "id": "g1_0319",
+    "grade": 1,
+    "order": 319,
+    "word": "job",
+    "meaning": "Work that someone does.",
+    "example": "My job is to feed the cat."
+  },
+  {
+    "id": "g1_0320",
+    "grade": 1,
+    "order": 320,
+    "word": "kick",
+    "meaning": "To hit with your foot.",
+    "example": "Kick the ball to me."
+  },
+  {
+    "id": "g1_0321",
+    "grade": 1,
+    "order": 321,
+    "word": "second",
+    "meaning": "Number two in line. Also a tiny bit of time.",
+    "example": "Wait one second."
+  },
+  {
+    "id": "g1_0322",
+    "grade": 1,
+    "order": 322,
+    "word": "pick",
+    "meaning": "To choose. Or to pull off, like a flower.",
+    "example": "Pick a card."
+  },
+  {
+    "id": "g1_0323",
+    "grade": 1,
+    "order": 323,
+    "word": "sick",
+    "meaning": "Not feeling well.",
+    "example": "I stayed home because I was sick."
+  },
+  {
+    "id": "g1_0324",
+    "grade": 1,
+    "order": 324,
+    "word": "drop",
+    "meaning": "To let something fall.",
+    "example": "Don't drop the eggs!"
+  },
+  {
+    "id": "g1_0325",
+    "grade": 1,
+    "order": 325,
+    "word": "rock",
+    "meaning": "A hard stone.",
+    "example": "I found a smooth rock."
+  },
+  {
+    "id": "g1_0326",
+    "grade": 1,
+    "order": 326,
+    "word": "milk",
+    "meaning": "A white drink that often comes from cows.",
+    "example": "I drink milk with cookies."
+  },
+  {
+    "id": "g1_0327",
+    "grade": 1,
+    "order": 327,
+    "word": "hop",
+    "meaning": "To jump on one foot, or like a bunny.",
+    "example": "Bunnies hop."
+  },
+  {
+    "id": "g1_0328",
+    "grade": 1,
+    "order": 328,
+    "word": "quick",
+    "meaning": "Fast.",
+    "example": "That was a quick race."
+  },
+  {
+    "id": "g1_0329",
+    "grade": 1,
+    "order": 329,
+    "word": "wish",
+    "meaning": "To want something very much.",
+    "example": "I wish I could fly."
+  },
+  {
+    "id": "g1_0330",
+    "grade": 1,
+    "order": 330,
+    "word": "wrong",
+    "meaning": "Not right.",
+    "example": "That answer is wrong."
+  },
+  {
+    "id": "g1_0331",
+    "grade": 1,
+    "order": 331,
+    "word": "along",
+    "meaning": "Moving beside something.",
+    "example": "We walked along the beach."
+  },
+  {
+    "id": "g1_0332",
+    "grade": 1,
+    "order": 332,
+    "word": "fish",
+    "meaning": "An animal that swims and lives in water.",
+    "example": "The fish swam in the pond."
+  },
+  {
+    "id": "g1_0333",
+    "grade": 1,
+    "order": 333,
+    "word": "cup",
+    "meaning": "A small container to drink from.",
+    "example": "Pour milk in the cup."
+  },
+  {
+    "id": "g1_0334",
+    "grade": 1,
+    "order": 334,
+    "word": "child",
+    "meaning": "A young person; a kid.",
+    "example": "Every child loves to play."
+  },
+  {
+    "id": "g1_0335",
+    "grade": 1,
+    "order": 335,
+    "word": "kind",
+    "meaning": "Nice and caring. Also means a type of something.",
+    "example": "Be kind to others."
+  },
+  {
+    "id": "g1_0336",
+    "grade": 1,
+    "order": 336,
+    "word": "hold",
+    "meaning": "To keep in your hands.",
+    "example": "Hold my hand."
+  },
+  {
+    "id": "g1_0337",
+    "grade": 1,
+    "order": 337,
+    "word": "won't",
+    "meaning": "Short for \"will not.\"",
+    "example": "I won't be late."
+  },
+  {
+    "id": "g1_0338",
+    "grade": 1,
+    "order": 338,
+    "word": "most",
+    "meaning": "The biggest amount.",
+    "example": "She has the most stickers."
+  },
+  {
+    "id": "g1_0339",
+    "grade": 1,
+    "order": 339,
+    "word": "son",
+    "meaning": "A boy who is someone's child.",
+    "example": "He is their son."
+  }
+]
