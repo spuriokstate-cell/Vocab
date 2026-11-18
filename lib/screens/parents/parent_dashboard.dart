@@ -416,7 +416,7 @@ class _SettingsTab extends StatelessWidget {
                 value: s.autoRead,
                 onChanged: (v) => app.updateSettings((x) => x.autoRead = v),
               ),
-              Text('Speech speed', style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w700)),
+              const Text('Speech speed', style: TextStyle(fontSize: 16, fontWeight: FontWeight.w700)),
               Row(children: [
                 const Text('🐢'),
                 Expanded(

@@ -81,8 +81,9 @@ void main() {
       for (var i = 0; i < 300; i++) {
         if (s.pick(all.take(40).toList(), profile, 5, now: now).contains(hard)) hits++;
       }
-      // Without weighting it would be picked ~5/40 = 12.5% of the time.
-      expect(hits / 300, greaterThan(0.4));
+      // Without weighting it would be picked 5/40 = 12.5% of the time.
+      // With weight 8 against 3 for the others it is about 30%.
+      expect(hits / 300, greaterThan(0.2));
     });
 
     test('pick returns different words and no more than asked', () {
